@@ -22,7 +22,7 @@ cd RedisPostApi
 ### 2. Сборка и запуск приложения
 
 ```bash
-docker-compose up -d --build
+docker-compose up --build
 ```
 
 ### 3. Проверка функционала
