@@ -57,7 +57,7 @@ PUT /posts/{id}
   "content": "Updated Content"
 }
 
-Удаление поста
+**Удаление поста**
 DELETE /posts/{id}
 Тело запроса:
 {
